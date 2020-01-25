@@ -29,8 +29,9 @@
         "https://images.unsplash.com/photo-1571335272625-c06041f68736?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
     },
     "tweet": {
-      "media":
-        "https://images.unsplash.com/photo-1568306985896-f94fc046fb73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+      "media":[
+        "https://images.unsplash.com/photo-1568306985896-f94fc046fb73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+      ],
       "text": "Devemos pensar de forma critica à respeito dos fatos que nos circundam",
       "commentCount": 2,
       "shareCount": 7,
