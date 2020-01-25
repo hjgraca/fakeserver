@@ -2,7 +2,7 @@
   "feed": [
     {
       "id": 1,
-      "images:": [
+      "images": [
         {
           "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/1.jpeg",
           "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/1.jpeg",
