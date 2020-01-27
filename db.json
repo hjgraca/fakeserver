@@ -20,10 +20,10 @@
         }
       ],
       "likes":[],
-      "Comments": [{ 
+      "comments": [{ 
         "text": "Working hard at Rocketseat!",
         "userId":2,
-        "CommentedAt": "2012-04-23T18:25:43.511Z",
+        "commentedAt": "2012-04-23T18:25:43.511Z",
         "likes": [{
           "userId":4
         }]
