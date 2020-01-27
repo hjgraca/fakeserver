@@ -2,7 +2,7 @@
   "feed": [
     {
       "id": 1,
-      "user": 1,
+      "userId": 1,
       "postedAt": "2012-04-23T18:25:43.511Z",
       "location":"Earth",
       "images": [
@@ -22,10 +22,10 @@
       "likes":[],
       "Comments": [{ 
         "text": "Working hard at Rocketseat!",
-        "user":2,
+        "userId":2,
         "CommentedAt": "2012-04-23T18:25:43.511Z",
         "likes": [{
-          "user":4
+          "userId":4
         }]
       }]
     }
