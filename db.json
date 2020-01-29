@@ -2,7 +2,11 @@
   "feed": [
     {
       "id": 1,
-      "userId": 1,
+      "user": {
+        "id": 1,
+        "name": "dieegosf",
+        "avatar": "https://avatars0.githubusercontent.com/u/2254731?s=50&v=4"
+      },
       "postedAt": "2012-04-23T18:25:43.511Z",
       "location":"Earth",
       "images": [
@@ -22,10 +26,18 @@
       "likes":[],
       "comments": [{ 
         "text": "Working hard at Rocketseat!",
-        "userId":2,
+        "user": {
+          "id": 2,
+          "name": "cleitonsouza",
+          "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+        },
         "commentedAt": "2012-04-23T18:25:43.511Z",
         "likes": [{
-          "userId":4
+            "user":{
+            "id": 4,
+            "name": "jpdemagalhaes",
+            "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4"
+          }
         }]
       }]
     }
